@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-
 import Map from "./components/Map";
 import Loader from "./components/Loader";
 import Header from "./components/Header";
@@ -7,6 +6,7 @@ import Header from "./components/Header";
 import "./index.css";
 
 function App() {
+  // const dotenv = require('dotenv').config()
   const [eventData, setEventData] = useState([]);
   const [loading, setLoading] = useState(false);
 

@@ -3,6 +3,8 @@ import GoogleMapReact from "google-map-react";
 import LocationMarker from "./LocationMarker";
 import LocationInfoBox from "./LocationInfoBox";
 
+const api_key = process.env.REACT_APP_API_KEY
+
 const NATURAL_EVENT_VOLCANOE = 8;
 
 const Map = ({ eventData, center, zoom }) => {
@@ -29,7 +31,7 @@ const Map = ({ eventData, center, zoom }) => {
   return (
     <div className="map">
       <GoogleMapReact
-        bootstrapURLKeys={{ key: "AIzaSyCGtFYBXTur8qsovNMu0kFDgViue5XLEi0" }}
+        bootstrapURLKeys={{ api_key }}
         defaultCenter={center}
         defaultZoom={zoom}
       >
