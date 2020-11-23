@@ -56,7 +56,7 @@ const Map = ({ eventData, center, zoom }) => {
           }
         />
       );
-     }
+    }
   });
 
   return (
