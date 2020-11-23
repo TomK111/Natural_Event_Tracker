@@ -7,7 +7,7 @@ body {
 
 .header{
     padding: 30px;
-    background:linear-gradient(rgb(238, 2, 2), rgb(59, 58, 58));
+    background:linear-gradient(rgb(2, 151, 238), rgb(59, 58, 58));
     background-repeat: no-repeat;
     color: white;
     position: fixed;
@@ -54,6 +54,21 @@ body {
     font-family: fantasy;
 }
 
+.wildfire-marker {
+    color: red;
+    font-size: 0.8rem;
+}
+
+.iceberg-marker{
+    color: orange
+}
+
+.severestorm-marker{
+    color: rgb(34, 190, 130);
+    font-size:1.2rem;
+}
+
+
 .location-info {
     position: absolute;
     top:240px;
@@ -61,16 +76,12 @@ body {
     width: 400px;
     min-height: 100px;
     padding: 20px;
-    background-color: rgb(177, 34, 34, 0.7);
+    background-color: rgba(29, 27, 27, 0.7);
     border-radius: 10px;
     font-size: 17px;
     color: white;
 }
 
-.wildfire-marker {
-    color: red;
-    font-size: medium;
-}
 .location-info ul {
     list-style-type: none;
     padding: 0;

@@ -1,11 +1,11 @@
 import React from 'react';
 import { Icon } from '@iconify/react'
-import locationIcon from '@iconify/icons-mdi/pine-tree-fire'
+import locationIcon from '@iconify/icons-mdi/storm-advisory-outline'
 
 const Header = () => {
     return (
         <header className="header">
-            <h1> <Icon icon={locationIcon}></Icon>Wildfire Tracker</h1>
+            <h1> <Icon icon={locationIcon}></Icon>Natural Events Tracker</h1>
         </header>
     )}
 
