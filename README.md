@@ -10,5 +10,5 @@ To use this application:
     <li>Run <code>npm install</code> at the root directory</li>
 </ul>
 
-<img src="./assets/Screenshot.png">
+<img src="./Screenshot.png">
 
