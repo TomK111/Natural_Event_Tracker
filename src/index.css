@@ -1,93 +1,91 @@
 body {
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    overflow: hidden;
-    background-color: rgb(36, 35, 35);
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  overflow: hidden;
+  background-color: rgb(36, 35, 35);
 }
 
-.header{
-    padding: 30px;
-    background:linear-gradient(rgb(2, 151, 238), rgb(59, 58, 58));
-    background-repeat: no-repeat;
-    color: white;
-    position: fixed;
-    top: 0;
-    right: 0;
-    left: 0;
-    z-index: 100;
-    border-radius: 10px;
+.header {
+  padding: 30px;
+  background: linear-gradient(rgb(2, 151, 238), rgb(59, 58, 58));
+  background-repeat: no-repeat;
+  color: white;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 100;
+  border-radius: 10px;
 }
 
 .header h1 {
-    font-size: 25px;
-    font-weight: 100;
-    padding: 0;
-    margin: 0;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
+  font-size: 25px;
+  font-weight: 100;
+  padding: 0;
+  margin: 0;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
 }
 
 .map {
-    width: 80vw;
-    height: 75vh;
-    margin: 0 auto;
-    margin-top:150px;
-    border: none;
+  width: 80vw;
+  height: 75vh;
+  margin: 0 auto;
+  margin-top: 150px;
+  border: none;
 }
 
 .loader {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
 }
 
 .loader img {
-    width: 400px;
-
+  width: 400px;
 }
 
 .loader h1 {
-    margin-top: -100px;
-    font-weight: 100;
-    font-family: fantasy;
+  margin-top: -100px;
+  font-weight: 100;
+  font-family: fantasy;
 }
 
 .wildfire-marker {
-    color: red;
-    font-size: 0.8rem;
+  color: red;
+  font-size: 0.8rem;
 }
 
-.iceberg-marker{
-    color: orange
+.iceberg-marker {
+  color: orange;
 }
 
-.severestorm-marker{
-    color: rgb(34, 190, 130);
-    font-size:1.2rem;
+.severestorm-marker {
+  color: rgb(34, 190, 130);
+  font-size: 1.2rem;
 }
-
 
 .location-info {
-    position: absolute;
-    top:240px;
-    left: 200px;
-    width: 400px;
-    min-height: 100px;
-    padding: 20px;
-    background-color: rgba(29, 27, 27, 0.7);
-    border-radius: 10px;
-    font-size: 17px;
-    color: white;
+  position: absolute;
+  top: 240px;
+  left: 200px;
+  width: 400px;
+  min-height: 100px;
+  padding: 20px;
+  background-color: rgba(29, 27, 27, 0.7);
+  border-radius: 10px;
+  font-size: 17px;
+  color: white;
 }
 
 .location-info ul {
-    list-style-type: none;
-    padding: 0;
-
+  list-style-type: none;
+  padding: 0;
 }
 
 .location-info li {
-    padding: 5px 0;
+  padding: 5px 0;
 }
