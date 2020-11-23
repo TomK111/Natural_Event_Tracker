@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Wildfire_Tracker/static/css/main.cd60d272.chunk.css",
-    "main.js": "/Wildfire_Tracker/static/js/main.f8f493e7.chunk.js",
-    "main.js.map": "/Wildfire_Tracker/static/js/main.f8f493e7.chunk.js.map",
-    "runtime-main.js": "/Wildfire_Tracker/static/js/runtime-main.3c09f9a3.js",
-    "runtime-main.js.map": "/Wildfire_Tracker/static/js/runtime-main.3c09f9a3.js.map",
-    "static/js/2.ce5a0bf7.chunk.js": "/Wildfire_Tracker/static/js/2.ce5a0bf7.chunk.js",
-    "static/js/2.ce5a0bf7.chunk.js.map": "/Wildfire_Tracker/static/js/2.ce5a0bf7.chunk.js.map",
-    "index.html": "/Wildfire_Tracker/index.html",
-    "static/css/main.cd60d272.chunk.css.map": "/Wildfire_Tracker/static/css/main.cd60d272.chunk.css.map",
-    "static/js/2.ce5a0bf7.chunk.js.LICENSE.txt": "/Wildfire_Tracker/static/js/2.ce5a0bf7.chunk.js.LICENSE.txt"
+    "main.css": "/Natural_Event_Tracker/static/css/main.cd60d272.chunk.css",
+    "main.js": "/Natural_Event_Tracker/static/js/main.f8f493e7.chunk.js",
+    "main.js.map": "/Natural_Event_Tracker/static/js/main.f8f493e7.chunk.js.map",
+    "runtime-main.js": "/Natural_Event_Tracker/static/js/runtime-main.d3495151.js",
+    "runtime-main.js.map": "/Natural_Event_Tracker/static/js/runtime-main.d3495151.js.map",
+    "static/js/2.ce5a0bf7.chunk.js": "/Natural_Event_Tracker/static/js/2.ce5a0bf7.chunk.js",
+    "static/js/2.ce5a0bf7.chunk.js.map": "/Natural_Event_Tracker/static/js/2.ce5a0bf7.chunk.js.map",
+    "index.html": "/Natural_Event_Tracker/index.html",
+    "static/css/main.cd60d272.chunk.css.map": "/Natural_Event_Tracker/static/css/main.cd60d272.chunk.css.map",
+    "static/js/2.ce5a0bf7.chunk.js.LICENSE.txt": "/Natural_Event_Tracker/static/js/2.ce5a0bf7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c09f9a3.js",
+    "static/js/runtime-main.d3495151.js",
     "static/js/2.ce5a0bf7.chunk.js",
     "static/css/main.cd60d272.chunk.css",
     "static/js/main.f8f493e7.chunk.js"
