@@ -1,6 +1,6 @@
-# Wildfire Tracker
+# Natural Event Tracker
 
-This application is built using React and tracks wildfires in real time all across the globe. This app uses Google Maps React and Iconify as well.
+This application is built using NASA's EONET (Earth's Observatory Natural Event Tracker) API and tracks wildfires, severe storms and icebergs in real time.
 
 To use this application:
 
